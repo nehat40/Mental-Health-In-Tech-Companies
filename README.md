@@ -41,19 +41,10 @@ Building a classification model to study which features predict mental health ou
 
 Performing hypothesis testing to evaluate associations between workplace factors and mental health indicators.
 
-# 📁 Project Files
+
 # 📂 Datasets
 
 Tech.csv – Raw survey dataset
-
-
-# 📓 Notebooks
-
-DataCleaningAndEDA.ipynb – Data cleaning and exploratory analysis
-
-RandomForest.ipynb – Random Forest model implementation
-
-StatisticalInference.ipynb – Hypothesis testing and inference
 
 
 # 📚 References
